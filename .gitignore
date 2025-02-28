@@ -11,9 +11,6 @@ venv/
 .env/
 .venv/
 
-# Ignore data files
-data/
-
 # Ignore system files
 .DS_Store
 Thumbs.db
