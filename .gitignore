@@ -1,0 +1,28 @@
+# Ignore .vscode folder
+.vscode/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment folders
+venv/
+.env/
+.venv/
+
+# Ignore data files
+data/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.so
+*.dll
+*.dylib
+*.exe

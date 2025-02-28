@@ -1,0 +1,7 @@
+pydub
+pygame
+Pillow
+json
+os
+webbrowser
+random
