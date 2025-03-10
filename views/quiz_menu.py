@@ -1,5 +1,6 @@
 import tkinter as tk
 from views.quiz import QuizScreen
+from utils.data_loader import charger_donnees
 
 class QuizMenuScreen:
     def __init__(self, root, menu):
@@ -14,13 +15,25 @@ class QuizMenuScreen:
         self.button_frame = tk.Frame(self.frame, bg="white")
         self.button_frame.pack(expand=True, fill=tk.BOTH)
 
-        tk.Button(self.button_frame, text="Favoris", command=self.show_favorites_quiz, bg="orange", fg="white", bd=0).pack(pady=20, padx=200, fill=tk.BOTH, expand=True)
+        # Charger les listes depuis le fichier JSON en utilisant la fonction charger_données
+        data = charger_donnees()
+        
+        # Récupérer toutes les listes uniques
+        listes = set()
+        for oiseau in data['oiseaux']:
+            listes.update(oiseau['liste'])
+
+        # Créer un bouton pour chaque liste
+        for liste in listes:
+            tk.Button(self.button_frame, text=liste.capitalize(), command=lambda l=liste: self.show_list_quiz(l), bg="green", fg="white", bd=0).pack(pady=10, padx=200, fill=tk.BOTH, expand=True)
+
+        # Bouton pour tous les oiseaux
         tk.Button(self.button_frame, text="Tous", command=self.show_all_quiz, bg="blue", fg="white", bd=0).pack(pady=20, padx=200, fill=tk.BOTH, expand=True)
         tk.Button(self.button_frame, text="Retour", command=self.retour_menu, bg="red", fg="white", bd=0).pack(pady=20, padx=200, fill=tk.BOTH, expand=True)
 
-    def show_favorites_quiz(self):
+    def show_list_quiz(self, liste):
         self.frame.pack_forget()
-        QuizScreen(self.root, self.menu, commun=True, type_oiseau=None)
+        QuizScreen(self.root, self.menu, commun=False, type_oiseau=liste)
 
     def show_all_quiz(self):
         self.frame.pack_forget()

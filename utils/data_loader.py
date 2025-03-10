@@ -16,3 +16,10 @@ def sauvegarder_donnees(donnees, fichier=DATA_FILE):
     """Save bird data to the JSON file."""
     with open(fichier, "w", encoding="utf-8") as f:
         json.dump(donnees, f, indent=4, ensure_ascii=False)
+
+def add_to_list(nom_oiseau, nom_liste, oiseaux):
+    for oiseau in oiseaux:
+        if oiseau["nom"] == nom_oiseau:
+            if nom_liste not in oiseau["liste"]:
+                oiseau["liste"].append(nom_liste)
+                break

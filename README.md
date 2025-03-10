@@ -51,17 +51,19 @@ A list of tasks or features that need to be completed or added.
 A list of tasks or features that need to be completed or added.
 
 - [ ] **New feature : adding new lists**
-    - [ ] Changing how lists are coded in json
-    - [ ] Add different list
-    - [ ] Change the UI for bird list (with feature to sort by list)
-    - [ ] Change how bird are added to a list
-    - [ ] Possibility to add a new list
-    - [ ] Add the possibility to choose a specific list in quizz
+    - [x] Changing how lists are coded in json
+    - [x] Add different list
+    - [x] Change the UI for bird list (with feature to sort by list)
+    - [x] Change how bird are added to a list
+    - [x] Add the list informations in the individual bird pages
+    - [x] Possibility to add a new list
+    - [x] Add the possibility to choose a specific list in quizz
 
 - [ ] **General**
+    - [ ] Clean code in particular data_loader and data_manager (too much redundancy)
+    - [ ] Add the website link in the quizz
     - [ ] Add a default json file
     - [ ] Add the possibility to keep a json file on new installation (not loosing the lists)
-    - [ ] Add the website link in the quizz
     - [ ] Add the known bird feature (3 times recognized bird are not shown anymore)
 
 - [ ] **Later**

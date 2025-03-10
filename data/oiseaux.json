@@ -52,9 +52,7 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/agrobate.roux.html",
-            "liste": [
-                "marais"
-            ]
+            "liste": []
         },
         {
             "nom": "Aigle botté",
@@ -67,7 +65,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/aigle.botte.html",
-            "liste": []
+            "liste": [
+                "rapace"
+            ]
         },
         {
             "nom": "Aigle criard",
@@ -95,9 +95,7 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/aigle.de.bonelli.html",
-            "liste": [
-                "rapace"
-            ]
+            "liste": []
         },
         {
             "nom": "Aigle des steppes",
@@ -110,9 +108,7 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/aigle.des.steppes.html",
-            "liste": [
-                "rapace"
-            ]
+            "liste": []
         },
         {
             "nom": "Aigle ibérique",
