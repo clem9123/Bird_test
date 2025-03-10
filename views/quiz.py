@@ -2,6 +2,7 @@ import tkinter as tk
 from PIL import Image, ImageTk
 import random
 import os
+import webbrowser
 from utils.data_loader import charger_donnees
 from utils.images import charger_image
 from utils.audio import jouer_son, arreter_son
@@ -46,6 +47,9 @@ class QuizScreen:
         self.default_image = self.load_image("data/ui/blur.png", 300, 300)
         self.label_image = tk.Label(self.image_frame, image=self.default_image)
         self.label_image.pack()
+
+        self.web_button = tk.Button(self.frame, text="Page Web", command=self.ouvrir_page_web, bd=0, bg="white")
+        self.web_button.pack(pady=10)
 
         button_frame_bottom = tk.Frame(self.frame, bg="white")
         button_frame_bottom.pack(pady=10, fill=tk.X)
@@ -93,6 +97,12 @@ class QuizScreen:
         else:
             self.oiseau_actuel["niveau"] += 1
         self.charger_nouvel_oiseau()
+
+    def ouvrir_page_web(self):
+        if self.oiseau_actuel and "URL" in self.oiseau_actuel:
+            webbrowser.open(self.oiseau_actuel["URL"])
+        else:
+            print("Aucune URL disponible pour cet oiseau.")
 
     def retour_menu(self):
         arreter_son()

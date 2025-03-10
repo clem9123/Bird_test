@@ -138,7 +138,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/aigle.imperial.html",
-            "liste": []
+            "liste": [
+                "rapace"
+            ]
         },
         {
             "nom": "Aigle pomarin",
@@ -151,7 +153,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/aigle.pomarin.html",
-            "liste": []
+            "liste": [
+                "rapace"
+            ]
         },
         {
             "nom": "Aigle royal",
