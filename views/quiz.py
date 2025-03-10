@@ -14,10 +14,8 @@ class QuizScreen:
         self.frame.pack(expand=True, fill=tk.BOTH)
 
         self.oiseaux = charger_donnees()["oiseaux"]
-        if commun:
-            self.oiseaux = [o for o in self.oiseaux if o["abondance"] == "commun"]
         if type_oiseau:
-            self.oiseaux = [o for o in self.oiseaux if o["type"] == type_oiseau]
+            self.oiseaux = [o for o in self.oiseaux if type_oiseau in o["liste"]]
 
         self.oiseau_actuel = None
 
