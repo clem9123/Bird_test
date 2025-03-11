@@ -52,9 +52,7 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/agrobate.roux.html",
-            "liste": [
-                "marais"
-            ]
+            "liste": []
         },
         {
             "nom": "Aigle botté",
@@ -288,7 +286,8 @@
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/alouette.des.champs.html",
             "liste": [
-                "commun"
+                "commun",
+                "Brugeron"
             ]
         },
         {
@@ -475,7 +474,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/bec-croise.des.sapins.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Bec-croisé perroquet",
@@ -514,7 +515,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/becasse.des.bois.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Bécasseau à cou rouxBécasseau à col roux",
@@ -1062,7 +1065,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/bouvreuil.pivoine.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Bruant à calotte blanche",
@@ -1498,7 +1503,8 @@
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/buse.variable.html",
             "liste": [
-                "commun"
+                "commun",
+                "Brugeron"
             ]
         },
         {
@@ -1917,7 +1923,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/chevechette.d.europe.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Chocard à bec jaune",
@@ -1969,7 +1977,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/chouette.de.tengmalm.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Chouette épervièreÉpervière boréale",
@@ -1995,7 +2005,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/chouette.hulotte.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Cigogne blanche",
@@ -2283,7 +2295,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/coucou.gris.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Coulicou à bec jaune",
@@ -2771,7 +2785,8 @@
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/faucon.crecerelle.html",
             "liste": [
-                "commun"
+                "commun",
+                "Brugeron"
             ]
         },
         {
@@ -3859,7 +3874,9 @@
             "nb_mauvaise_reponses": 1,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/grand.corbeau.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Grand Cormoran",
@@ -4122,7 +4139,8 @@
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/grimpereau.des.bois.html",
             "liste": [
-                "commun"
+                "commun",
+                "Brugeron"
             ]
         },
         {
@@ -4279,7 +4297,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/grive.draine.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Grive fauve",
@@ -4331,7 +4351,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/grive.musicienne.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Grive obscureMerle obscur",
@@ -4370,7 +4392,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/grosbec.casse-noyaux.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Grue cendrée",
@@ -5518,7 +5542,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/merle.a.plastron.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Merle noir",
@@ -5531,7 +5557,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/merle.noir.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Mésange azurée",
@@ -5583,7 +5611,10 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/mesange.charbonniere.html",
-            "liste": []
+            "liste": [
+                "Brugeron",
+                "commun"
+            ]
         },
         {
             "nom": "Mésange huppée",
@@ -5596,7 +5627,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/mesange.huppee.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Mésange noire",
@@ -5609,7 +5642,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/mesange.noire.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Mésange nonnette",
@@ -5650,7 +5685,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/milan.royal.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Moineau cisalpin",
@@ -6646,7 +6683,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/pic.epeiche.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Pic épeichette",
@@ -6685,7 +6724,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/pic.noir.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Pic tridactyle",
@@ -6912,7 +6953,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/pinson.des.arbres.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Pinson des arbres africain",
@@ -7017,7 +7060,8 @@
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/pipit.des.arbres.html",
             "liste": [
-                "commun"
+                "commun",
+                "Brugeron"
             ]
         },
         {
@@ -7397,7 +7441,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/pouillot.veloce.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Pouillot verdâtre",
@@ -7618,7 +7664,9 @@
             "nb_mauvaise_reponses": 0,
             "derniere_utilisation": null,
             "URL": "https://www.oiseaux.net/oiseaux/roitelet.huppe.html",
-            "liste": []
+            "liste": [
+                "Brugeron"
+            ]
         },
         {
             "nom": "Roitelet triple-bandeau",
