@@ -13,7 +13,6 @@ To verify your Python installation, run the following command in a terminal or c
 python --version
 ```
 If Python 3 is installed, you may need to use:  
-
 ```sh
 python3 --version
 ```
