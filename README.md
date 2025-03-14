@@ -29,7 +29,7 @@ If you do not have Python installed, you can download it from the [official webs
     ```sh
     pip install Pillow, pygame, pydub, random
     ```
-5. bis. If pip is not working alone as a command line try :
+If pip is not working alone as a command line try :
     ```sh
     python -m pip install Pillow, pygame, pydub, random
     ```
