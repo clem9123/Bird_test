@@ -30,15 +30,9 @@ If you do not have Python installed, you can download it from the [official webs
     pip install Pillow, pygame, pydub, random
     ```
 If pip is not working alone as a command line try :
-
-
     python -m pip install Pillow, pygame, pydub, random
-
 OR (if you have python3)
-
-    ```sh
     python -m pip install Pillow, pygame, pydub, random
-    ```
 
 # Running the project
 
