@@ -20,7 +20,7 @@ This should return:
 Python {x.x.x <- your version number}
 ```
 
-If you do not have Python installed, you can download it from the [official website](https://www.python.org/downloads/).
+If you do not have Python installed, you can download it from the [official website](https://www.python.org/downloads/){:target="_blank"}.
 
 2. Click the green "Code" button at the top right and download the ZIP file.
 
