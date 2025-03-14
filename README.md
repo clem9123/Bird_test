@@ -11,7 +11,7 @@ A brief description of your project, what it does, and its purpose.
     ```
 Si installation de python 3 écrire
     ```sh
-    python3 --version
+    python --version
     ```
 This should return 
     ```
