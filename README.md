@@ -7,8 +7,7 @@ A brief description of your project, what it does, and its purpose.
 
 ## Installation with Python
 
-To verify your Python installation, run the following command in a terminal or command prompt:  
-
+To verify your Python installation, run the following command in a terminal or command prompt:
 ```sh
 python --version
 ```
@@ -17,7 +16,6 @@ If Python 3 is installed, you may need to use:
 python3 --version
 ```
 This should return:  
-
 ```
 Python {x.x.x <- your version number}
 ```
