@@ -10,7 +10,7 @@ A brief description of your project, what it does, and its purpose.
     python --version
     ```
 Si installation de python 3 écrire
-    ```sh
+    ```
     python --version
     ```
 This should return 
