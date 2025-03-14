@@ -11,11 +11,11 @@ To verify your Python installation, run the following command in a terminal or c
 ```sh
 python --version
 ```
-If Python 3 is installed, you may need to use:  
+If Python 3 is installed, you may need to use:
 ```sh
 python3 --version
 ```
-This should return:  
+This should return:
 ```
 Python {x.x.x <- your version number}
 ```
