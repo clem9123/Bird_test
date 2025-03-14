@@ -5,18 +5,24 @@ A brief description of your project, what it does, and its purpose.
 
 ## Installation with python
 
-1. Verify Python installation with rthe line above in a terminal or command prompt.
-    ```sh
-    python --version
-    ```
-Si installation de python 3 écrire
-    ```
-    python --version
-    ```
-This should return 
-    ```
-    Python {x.x.x <- your version number}
-    ```
+## Installation with Python
+
+To verify your Python installation, run the following command in a terminal or command prompt:  
+
+```sh
+python --version
+```
+If Python 3 is installed, you may need to use:  
+
+```sh
+python3 --version
+```
+This should return:  
+
+```
+Python {x.x.x <- your version number}
+```
+
 If you do not have Python installed, you can download it from the [official website](https://www.python.org/downloads/).
 
 2. Click the green "Code" button at the top right and download the ZIP file.
