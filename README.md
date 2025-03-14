@@ -5,33 +5,20 @@ A brief description of your project, what it does, and its purpose.
 
 ## Installation with python
 
-## Installation with Python
+## Short Installation
 
 To verify your Python installation, run the following command in a terminal or command prompt:
 ```sh
 python --version
 ```
-If Python 3 is installed, you may need to use:
-```sh
-python3 --version
-```
-This should return:
-```
-Python {x.x.x <- your version number}
-```
+With Python 3 use python3 --version
+If you do not have Python installed, you can download it from the [official website](https://www.python.org/downloads/).
 
-If you do not have Python installed, you can download it from the <a href="https://www.python.org/downloads/" target="_blank" rel="noopener noreferrer">official website</a>.
+2. Download the ZIP file and extract to desired location
 
-
-2. Click the green "Code" button at the top right and download the ZIP file.
-
-3. Extract the contents to your desired location.
-
-4. Open Bird_test in terminal (right click > open in terminal).
-
-5. Install the required packages with the following command:
+5. Install the required packages in requirements.txt
     ```sh
-    pip install Pillow, pygame, pydub, random
+    pip install -r requirement.txt
     ```
 If pip is not working alone as a command line try :
 
@@ -40,6 +27,17 @@ If pip is not working alone as a command line try :
 OR (if you have python3)
 
     python -m pip install Pillow, pygame, pydub, random
+
+# Detailled Installation
+
+If Python 3 is installed, you may need to use:
+```sh
+python3 --version
+```
+This should return:z
+```
+Python {x.x.x <- your version number}
+```
 
 # Running the project
 
