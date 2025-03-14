@@ -10,11 +10,9 @@ A brief description of your project, what it does, and its purpose.
     python --version
     ```
 Si installation de python 3 écrire
-
     ```sh
     python3 --version
     ```
-
 This should return 
     ```
     Python {x.x.x <- your version number}
@@ -31,7 +29,6 @@ If you do not have Python installed, you can download it from the [official webs
     ```sh
     pip install Pillow, pygame, pydub, random
     ```
-
 5.bis. If pip is not working alone as a command line try :
     ```sh
     python -m pip install Pillow, pygame, pydub, random
