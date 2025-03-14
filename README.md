@@ -35,7 +35,7 @@ If you do not have Python installed, you can download it from the [official webs
     ```
 OR (if you have python3)
     ```sh
-    python3 -m pip install Pillow, pygame, pydub, random
+    python -m pip install Pillow, pygame, pydub, random
     ```
 
 # Running the project
